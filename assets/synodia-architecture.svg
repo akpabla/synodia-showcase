@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200">
+<rect width="1200" height="1200" fill="#0b1426"/>
+<defs><marker id="a" markerWidth="9" markerHeight="9" refX="8" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8" fill="#54d4c3"/></marker></defs>
+<text x="55" y="60" fill="#54d4c3" font-family="Arial,sans-serif" font-size="25" font-weight="700">SYNODIA</text>
+<text x="55" y="118" fill="#ffffff" font-family="Arial,sans-serif" font-size="42" font-weight="700">From product evidence to delivery decisions</text>
+<text x="55" y="158" fill="#d9e4f2" font-family="Arial,sans-serif" font-size="21" font-weight="400">Public capability architecture  /  AI technical project management portfolio</text>
+<rect x="55" y="205" width="1090" height="112" rx="18" fill="#14253d" stroke="#36516d"/>
+<text x="79" y="243" fill="#ffffff" font-family="Arial,sans-serif" font-size="25" font-weight="700">DELIVERY WORKSPACE</text>
+<text x="79" y="277" fill="#d9e4f2" font-family="Arial,sans-serif" font-size="20" font-weight="400">Product owner • Scrum Master • Release Train Engineer</text>
+<text x="79" y="306" fill="#d9e4f2" font-family="Arial,sans-serif" font-size="20" font-weight="400">Discovery • Readiness • PI planning • Execution visibility</text>
+<path d="M600 317 V351" stroke="#54d4c3" stroke-width="3" marker-end="url(#a)"/>
+<rect x="55" y="355" width="530" height="125" rx="18" fill="#14253d" stroke="#36516d"/>
+<text x="79" y="393" fill="#ffffff" font-family="Arial,sans-serif" font-size="25" font-weight="700">Enterprise context</text>
+<text x="79" y="427" fill="#d9e4f2" font-family="Arial,sans-serif" font-size="20" font-weight="400">Jira • Confluence • Requirements</text>
+<text x="79" y="456" fill="#d9e4f2" font-family="Arial,sans-serif" font-size="20" font-weight="400">Authorized evidence and source references</text>
+<rect x="615" y="355" width="530" height="125" rx="18" fill="#14253d" stroke="#36516d"/>
+<text x="639" y="393" fill="#ffffff" font-family="Arial,sans-serif" font-size="25" font-weight="700">Delivery foundations</text>
+<text x="639" y="427" fill="#d9e4f2" font-family="Arial,sans-serif" font-size="20" font-weight="400">Planning scenarios • Execution analytics</text>
+<text x="639" y="456" fill="#d9e4f2" font-family="Arial,sans-serif" font-size="20" font-weight="400">Human review and approval</text>
+<path d="M600 485 V519" stroke="#54d4c3" stroke-width="3" marker-end="url(#a)"/>
+<rect x="55" y="525" width="1090" height="285" rx="18" fill="#173247" stroke="#36516d"/>
+<text x="79" y="563" fill="#ffffff" font-family="Arial,sans-serif" font-size="25" font-weight="700">SPECIALIST COLLABORATION — TARGET ARCHITECTURE</text>
+<text x="79" y="597" fill="#d9e4f2" font-family="Arial,sans-serif" font-size="20" font-weight="400">Bounded reasoning • Evidence-linked outputs • Reviewable recommendations</text>
+<rect x="85" y="602" width="310" height="68" rx="12" fill="#0f2237" stroke="#36516d"/>
+<text x="101" y="643" fill="#ffffff" font-family="Arial,sans-serif" font-size="21" font-weight="700">Product Discovery</text>
+<rect x="445" y="602" width="310" height="68" rx="12" fill="#0f2237" stroke="#36516d"/>
+<text x="461" y="643" fill="#ffffff" font-family="Arial,sans-serif" font-size="21" font-weight="700">Requirements Readiness</text>
+<rect x="805" y="602" width="310" height="68" rx="12" fill="#0f2237" stroke="#36516d"/>
+<text x="821" y="643" fill="#ffffff" font-family="Arial,sans-serif" font-size="21" font-weight="700">Planning Advisor</text>
+<rect x="85" y="702" width="310" height="68" rx="12" fill="#0f2237" stroke="#36516d"/>
+<text x="101" y="743" fill="#ffffff" font-family="Arial,sans-serif" font-size="21" font-weight="700">Dependency &amp; Risk</text>
+<rect x="445" y="702" width="310" height="68" rx="12" fill="#0f2237" stroke="#36516d"/>
+<text x="461" y="743" fill="#ffffff" font-family="Arial,sans-serif" font-size="21" font-weight="700">Delivery Intelligence</text>
+<rect x="805" y="702" width="310" height="68" rx="12" fill="#0f2237" stroke="#36516d"/>
+<text x="821" y="743" fill="#ffffff" font-family="Arial,sans-serif" font-size="21" font-weight="700">Meeting &amp; Decision</text>
+<path d="M600 810 V849" stroke="#54d4c3" stroke-width="3" marker-end="url(#a)"/>
+<rect x="55" y="855" width="1090" height="110" rx="18" fill="#153c3b" stroke="#36516d"/>
+<text x="79" y="893" fill="#ffffff" font-family="Arial,sans-serif" font-size="25" font-weight="700">ACCOUNTABLE OUTCOMES</text>
+<text x="79" y="927" fill="#d9e4f2" font-family="Arial,sans-serif" font-size="20" font-weight="400">Explain the recommendation → review the evidence → approve external changes</text>
+<text x="79" y="956" fill="#d9e4f2" font-family="Arial,sans-serif" font-size="20" font-weight="400">AI proposes • Deterministic tools calculate • People remain accountable</text>
+<text x="55" y="1015" fill="#54d4c3" font-family="Arial,sans-serif" font-size="23" font-weight="700">Technology foundations</text>
+<text x="55" y="1050" fill="#d9e4f2" font-family="Arial,sans-serif" font-size="23" font-weight="400">React • Node.js / Express • PostgreSQL • Qdrant • Ollama • Temporal</text>
+<text x="55" y="1110" fill="#d9e4f2" font-family="Arial,sans-serif" font-size="21" font-weight="400">Multi-agent integration is in development. Rovo interoperability is planned.</text>
+<text x="55" y="1145" fill="#a8b9ce" font-family="Arial,sans-serif" font-size="19" font-weight="400">Capability-level view. Implementation details and proprietary logic are not disclosed.</text>
+</svg>
