@@ -77,6 +77,6 @@ These are recorded local results, not independently reproducible public benchmar
 
 ## Professional conversations
 
-I welcome conversations about AI Technical Project Manager opportunities, responsible agent adoption, enterprise delivery and the Atlassian ecosystem. My GitHub profile is [akpabla](https://github.com/TarunPabla).
+I welcome conversations about AI Technical Project Manager opportunities, responsible agent adoption, enterprise delivery and the Atlassian ecosystem. My GitHub profile is [akpabla](https://github.com/akpabla/).
 
 This repository is a documentation showcase, not an open-source application release. Public materials may evolve as implementation and validation progress. No source-code licence is granted by this showcase.
